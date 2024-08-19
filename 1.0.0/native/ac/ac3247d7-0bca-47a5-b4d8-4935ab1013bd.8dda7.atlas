@@ -1,0 +1,244 @@
+
+5ofkind.jpg
+size: 2031,1545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_particle/fs_particle_a_screen_00
+  rotate: false
+  xy: 1586, 11
+  size: 235, 277
+  orig: 307, 307
+  offset: 32, 2
+  index: -1
+fx_particle/fs_particle_a_screen_01
+  rotate: false
+  xy: 1785, 290
+  size: 241, 281
+  orig: 307, 307
+  offset: 29, 1
+  index: -1
+fx_particle/fs_particle_a_screen_02
+  rotate: false
+  xy: 1538, 361
+  size: 245, 281
+  orig: 307, 307
+  offset: 26, 1
+  index: -1
+fx_particle/fs_particle_a_screen_03
+  rotate: false
+  xy: 1335, 44
+  size: 249, 285
+  orig: 307, 307
+  offset: 24, 1
+  index: -1
+fx_particle/fs_particle_a_screen_04
+  rotate: false
+  xy: 1476, 1258
+  size: 253, 285
+  orig: 307, 307
+  offset: 23, 1
+  index: -1
+fx_particle/fs_particle_a_screen_05
+  rotate: true
+  xy: 1733, 754
+  size: 257, 289
+  orig: 307, 307
+  offset: 21, 1
+  index: -1
+fx_particle/fs_particle_a_screen_06
+  rotate: true
+  xy: 1733, 1013
+  size: 261, 291
+  orig: 307, 307
+  offset: 18, 1
+  index: -1
+fx_particle/fs_particle_a_screen_07
+  rotate: true
+  xy: 1733, 1276
+  size: 267, 291
+  orig: 307, 307
+  offset: 15, 1
+  index: -1
+fx_particle/fs_particle_a_screen_08
+  rotate: false
+  xy: 1462, 947
+  size: 269, 293
+  orig: 307, 307
+  offset: 14, 1
+  index: -1
+fx_particle/fs_particle_a_screen_09
+  rotate: false
+  xy: 1367, 644
+  size: 273, 295
+  orig: 307, 307
+  offset: 12, 1
+  index: -1
+fx_particle/fs_particle_a_screen_10
+  rotate: false
+  xy: 1257, 331
+  size: 279, 297
+  orig: 307, 307
+  offset: 9, 1
+  index: -1
+fx_particle/fs_particle_a_screen_11
+  rotate: false
+  xy: 1082, 630
+  size: 283, 299
+  orig: 307, 307
+  offset: 6, 1
+  index: -1
+fx_particle/fs_particle_a_screen_12
+  rotate: false
+  xy: 1187, 1242
+  size: 287, 301
+  orig: 307, 307
+  offset: 4, 1
+  index: -1
+fx_particle/fs_particle_a_screen_13
+  rotate: false
+  xy: 960, 931
+  size: 291, 303
+  orig: 307, 307
+  offset: 2, 1
+  index: -1
+fx_particle/fs_particle_a_screen_14
+  rotate: false
+  xy: 1038, 2
+  size: 295, 305
+  orig: 307, 307
+  offset: 1, 1
+  index: -1
+fx_particle/fs_particle_a_screen_15
+  rotate: false
+  xy: 739, 2
+  size: 297, 305
+  orig: 307, 307
+  offset: 1, 1
+  index: -1
+fx_particle/fs_particle_a_screen_16
+  rotate: false
+  xy: 163, 98
+  size: 295, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_17
+  rotate: false
+  xy: 267, 478
+  size: 291, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_18
+  rotate: false
+  xy: 460, 169
+  size: 277, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_19
+  rotate: false
+  xy: 420, 1236
+  size: 273, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_20
+  rotate: false
+  xy: 739, 309
+  size: 269, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_21
+  rotate: false
+  xy: 560, 618
+  size: 271, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_22
+  rotate: false
+  xy: 420, 927
+  size: 273, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_23
+  rotate: false
+  xy: 695, 1236
+  size: 263, 307
+  orig: 307, 307
+  offset: 11, 0
+  index: -1
+fx_particle/fs_particle_a_screen_24
+  rotate: false
+  xy: 695, 927
+  size: 263, 307
+  orig: 307, 307
+  offset: 12, 0
+  index: -1
+fx_particle/fs_particle_a_screen_25
+  rotate: false
+  xy: 1010, 309
+  size: 245, 307
+  orig: 307, 307
+  offset: 31, 0
+  index: -1
+fx_particle/fs_particle_a_screen_26
+  rotate: false
+  xy: 833, 618
+  size: 247, 307
+  orig: 307, 307
+  offset: 29, 0
+  index: -1
+fx_particle/fs_particle_a_screen_27
+  rotate: false
+  xy: 960, 1236
+  size: 225, 307
+  orig: 307, 307
+  offset: 46, 0
+  index: -1
+fx_particle/fs_particle_a_screen_28
+  rotate: false
+  xy: 1253, 941
+  size: 207, 299
+  orig: 307, 307
+  offset: 45, 8
+  index: -1
+glow_a
+  rotate: true
+  xy: 2, 407
+  size: 378, 263
+  orig: 378, 263
+  offset: 0, 0
+  index: -1
+glow_b
+  rotate: false
+  xy: 460, 12
+  size: 200, 155
+  orig: 200, 155
+  offset: 0, 0
+  index: -1
+solid_a
+  rotate: true
+  xy: 2, 787
+  size: 756, 416
+  orig: 756, 416
+  offset: 0, 0
+  index: -1
+transition_glow_c
+  rotate: true
+  xy: 1785, 573
+  size: 179, 244
+  orig: 179, 244
+  offset: 0, 0
+  index: -1
+transition_solid_b
+  rotate: true
+  xy: 2, 55
+  size: 350, 159
+  orig: 350, 159
+  offset: 0, 0
+  index: -1

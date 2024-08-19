@@ -1,0 +1,48 @@
+
+fx_zhongjiang3.png
+size: 954,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_ring
+  rotate: false
+  xy: 694, 198
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow_b
+  rotate: false
+  xy: 425, 2
+  size: 200, 155
+  orig: 200, 155
+  offset: 0, 0
+  index: -1
+win_fire
+  rotate: false
+  xy: 766, 9
+  size: 186, 187
+  orig: 186, 187
+  offset: 0, 0
+  index: -1
+win_ring_a
+  rotate: false
+  xy: 425, 159
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+win_ring_b
+  rotate: false
+  xy: 627, 20
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+win_solid
+  rotate: false
+  xy: 2, 5
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1

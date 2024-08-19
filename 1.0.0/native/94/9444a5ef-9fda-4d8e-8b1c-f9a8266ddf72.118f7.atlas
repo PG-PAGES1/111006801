@@ -1,0 +1,34 @@
+
+freegame.png
+size: 535,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_a
+  rotate: true
+  xy: 2, 192
+  size: 378, 263
+  orig: 378, 263
+  offset: 0, 0
+  index: -1
+transition_fastline
+  rotate: true
+  xy: 267, 248
+  size: 322, 250
+  orig: 322, 250
+  offset: 0, 0
+  index: -1
+transition_glow_c
+  rotate: false
+  xy: 354, 2
+  size: 179, 244
+  orig: 179, 244
+  offset: 0, 0
+  index: -1
+transition_solid_b
+  rotate: false
+  xy: 2, 31
+  size: 350, 159
+  orig: 350, 159
+  offset: 0, 0
+  index: -1

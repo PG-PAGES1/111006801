@@ -1,0 +1,195 @@
+
+wild_phoenix.png
+size: 239,950
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fire
+  rotate: false
+  xy: 162, 703
+  size: 71, 81
+  orig: 73, 83
+  offset: 0, 2
+  index: -1
+frame_bg
+  rotate: false
+  xy: 156, 596
+  size: 70, 105
+  orig: 71, 106
+  offset: 1, 1
+  index: -1
+frame_fg
+  rotate: true
+  xy: 2, 468
+  size: 137, 150
+  orig: 138, 150
+  offset: 0, 0
+  index: -1
+fx_feather
+  rotate: false
+  xy: 216, 452
+  size: 19, 31
+  orig: 22, 35
+  offset: 0, 4
+  index: -1
+fx_fire_03/fx_fire_03
+  rotate: false
+  xy: 64, 89
+  size: 54, 52
+  orig: 67, 67
+  offset: 7, 9
+  index: -1
+fx_fire_03/fx_fire_04
+  rotate: false
+  xy: 2, 25
+  size: 57, 56
+  orig: 67, 67
+  offset: 3, 7
+  index: -1
+fx_fire_03/fx_fire_05
+  rotate: true
+  xy: 2, 83
+  size: 58, 60
+  orig: 67, 67
+  offset: 3, 6
+  index: -1
+fx_fire_03/fx_fire_06
+  rotate: true
+  xy: 173, 889
+  size: 59, 62
+  orig: 67, 67
+  offset: 5, 5
+  index: -1
+fx_fire_03/fx_fire_07
+  rotate: true
+  xy: 154, 424
+  size: 59, 60
+  orig: 67, 67
+  offset: 5, 6
+  index: -1
+fx_fire_03/fx_fire_08
+  rotate: false
+  xy: 120, 37
+  size: 58, 56
+  orig: 67, 67
+  offset: 2, 8
+  index: -1
+fx_glow
+  rotate: false
+  xy: 120, 95
+  size: 86, 86
+  orig: 94, 94
+  offset: 2, 6
+  index: -1
+fx_particles
+  rotate: true
+  xy: 93, 146
+  size: 23, 24
+  orig: 26, 26
+  offset: 0, 2
+  index: -1
+fx_phoenix_glow
+  rotate: false
+  xy: 2, 234
+  size: 117, 99
+  orig: 123, 105
+  offset: 1, 5
+  index: -1
+fx_starburst
+  rotate: true
+  xy: 140, 296
+  size: 126, 97
+  orig: 131, 99
+  offset: 3, 2
+  index: -1
+fx_wild_glow_zh
+  rotate: true
+  xy: 173, 786
+  size: 101, 61
+  orig: 117, 67
+  offset: 6, 5
+  index: -1
+phoe02_bodyneckx
+  rotate: true
+  xy: 64, 49
+  size: 38, 46
+  orig: 40, 47
+  offset: 2, 1
+  index: -1
+phoe02_bodyx
+  rotate: false
+  xy: 154, 485
+  size: 82, 109
+  orig: 90, 113
+  offset: 4, 4
+  index: -1
+phoe02_hair_01
+  rotate: false
+  xy: 93, 171
+  size: 25, 29
+  orig: 26, 31
+  offset: 0, 2
+  index: -1
+phoe02_hair_02
+  rotate: false
+  xy: 93, 202
+  size: 26, 30
+  orig: 27, 32
+  offset: 0, 2
+  index: -1
+phoe02_head
+  rotate: false
+  xy: 61, 2
+  size: 55, 45
+  orig: 60, 47
+  offset: 0, 2
+  index: -1
+phoe02_wing_L
+  rotate: true
+  xy: 2, 607
+  size: 110, 152
+  orig: 118, 168
+  offset: 0, 11
+  index: -1
+phoe02_wing_R
+  rotate: true
+  xy: 2, 719
+  size: 119, 158
+  orig: 124, 170
+  offset: 4, 7
+  index: -1
+phoenix
+  rotate: false
+  xy: 2, 335
+  size: 136, 131
+  orig: 137, 150
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 121, 183
+  size: 111, 111
+  orig: 113, 111
+  offset: 0, 0
+  index: -1
+sun-rays-md
+  rotate: false
+  xy: 180, 36
+  size: 57, 57
+  orig: 60, 60
+  offset: 0, 3
+  index: -1
+sun_inner
+  rotate: false
+  xy: 2, 143
+  size: 89, 89
+  orig: 92, 91
+  offset: 3, 2
+  index: -1
+wild_zh
+  rotate: false
+  xy: 2, 840
+  size: 169, 108
+  orig: 185, 123
+  offset: 10, 9
+  index: -1

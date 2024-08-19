@@ -1,0 +1,286 @@
+
+maingame_houyi.png
+size: 914,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_hol
+  rotate: true
+  xy: 687, 59
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+arrow_hol_b
+  rotate: false
+  xy: 871, 174
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+bicep_L
+  rotate: false
+  xy: 644, 45
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+bicep_L2
+  rotate: true
+  xy: 644, 2
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+bicep_R
+  rotate: true
+  xy: 849, 294
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+bicep_R2
+  rotate: true
+  xy: 814, 73
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 318, 20
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 544, 10
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+bow_L
+  rotate: false
+  xy: 489, 329
+  size: 206, 66
+  orig: 206, 66
+  offset: 0, 0
+  index: -1
+bow_L1
+  rotate: true
+  xy: 629, 122
+  size: 205, 66
+  orig: 206, 66
+  offset: 1, 0
+  index: -1
+bow_L2
+  rotate: true
+  xy: 561, 121
+  size: 206, 66
+  orig: 206, 66
+  offset: 0, 0
+  index: -1
+bow_R
+  rotate: true
+  xy: 132, 97
+  size: 219, 95
+  orig: 219, 95
+  offset: 0, 0
+  index: -1
+bow_R1
+  rotate: true
+  xy: 326, 109
+  size: 218, 95
+  orig: 219, 95
+  offset: 0, 0
+  index: -1
+bow_R2
+  rotate: true
+  xy: 229, 97
+  size: 219, 95
+  orig: 219, 95
+  offset: 0, 0
+  index: -1
+bow_handle
+  rotate: true
+  xy: 891, 414
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+fore_L
+  rotate: false
+  xy: 757, 29
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+fore_L2
+  rotate: true
+  xy: 812, 18
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+fore_Rx
+  rotate: true
+  xy: 2, 5
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+fore_Rx2
+  rotate: true
+  xy: 697, 96
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 757, 2
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 862, 210
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 262, 10
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+hoyi_fx_119
+  rotate: false
+  xy: 717, 284
+  size: 130, 99
+  orig: 308, 667
+  offset: 113, 183
+  index: -1
+hoyi_fx_120
+  rotate: false
+  xy: 2, 318
+  size: 241, 142
+  orig: 308, 667
+  offset: 39, 183
+  index: -1
+hoyi_fx_121
+  rotate: true
+  xy: 2, 73
+  size: 243, 128
+  orig: 308, 667
+  offset: 37, 198
+  index: -1
+hoyi_fx_122
+  rotate: false
+  xy: 245, 382
+  size: 242, 78
+  orig: 308, 667
+  offset: 37, 247
+  index: -1
+hoyi_fx_123
+  rotate: false
+  xy: 489, 397
+  size: 241, 63
+  orig: 308, 667
+  offset: 37, 262
+  index: -1
+hoyi_fx_124
+  rotate: false
+  xy: 245, 329
+  size: 238, 51
+  orig: 308, 667
+  offset: 38, 273
+  index: -1
+hoyi_fx_125
+  rotate: false
+  xy: 697, 164
+  size: 172, 37
+  orig: 308, 667
+  offset: 56, 287
+  index: -1
+hoyi_fx_126
+  rotate: true
+  xy: 621, 4
+  size: 115, 21
+  orig: 308, 667
+  offset: 83, 302
+  index: -1
+leg_L
+  rotate: true
+  xy: 732, 385
+  size: 75, 157
+  orig: 75, 157
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 132, 2
+  size: 73, 128
+  orig: 74, 128
+  offset: 0, 0
+  index: -1
+neck_filler
+  rotate: true
+  xy: 862, 237
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+neck_filler2
+  rotate: true
+  xy: 721, 2
+  size: 55, 34
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+pelvic
+  rotate: true
+  xy: 423, 2
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+string_L
+  rotate: true
+  xy: 423, 115
+  size: 212, 67
+  orig: 212, 67
+  offset: 0, 0
+  index: -1
+string_L2
+  rotate: true
+  xy: 492, 115
+  size: 212, 67
+  orig: 212, 67
+  offset: 0, 0
+  index: -1
+string_R
+  rotate: false
+  xy: 132, 77
+  size: 184, 18
+  orig: 184, 18
+  offset: 0, 0
+  index: -1
+string_R2
+  rotate: true
+  xy: 697, 211
+  size: 184, 18
+  orig: 184, 18
+  offset: 0, 0
+  index: -1
+thigh_R
+  rotate: true
+  xy: 717, 203
+  size: 79, 143
+  orig: 79, 143
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+btn_hold.png
+size: 1978,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 568, 67
+  size: 681, 200
+  orig: 686, 203
+  offset: 3, 1
+  index: -1
+button_glow_a
+  rotate: false
+  xy: 1251, 76
+  size: 550, 191
+  orig: 550, 191
+  offset: 0, 0
+  index: -1
+button_glow_b
+  rotate: false
+  xy: 2, 45
+  size: 564, 222
+  orig: 564, 222
+  offset: 0, 0
+  index: -1
+saog/1_00001
+  rotate: false
+  xy: 44, 10
+  size: 29, 33
+  orig: 300, 86
+  offset: 12, 12
+  index: -1
+saog/1_00003
+  rotate: true
+  xy: 642, 4
+  size: 61, 56
+  orig: 300, 86
+  offset: 12, 12
+  index: -1
+saog/1_00005
+  rotate: false
+  xy: 1871, 133
+  size: 94, 66
+  orig: 300, 86
+  offset: 12, 12
+  index: -1
+saog/1_00007
+  rotate: true
+  xy: 1803, 76
+  size: 123, 66
+  orig: 300, 86
+  offset: 15, 12
+  index: -1
+saog/1_00009
+  rotate: false
+  xy: 1700, 8
+  size: 143, 66
+  orig: 300, 86
+  offset: 27, 12
+  index: -1
+saog/1_00011
+  rotate: false
+  xy: 1551, 8
+  size: 147, 66
+  orig: 300, 86
+  offset: 55, 12
+  index: -1
+saog/1_00013
+  rotate: false
+  xy: 1251, 8
+  size: 148, 66
+  orig: 300, 86
+  offset: 87, 12
+  index: -1
+saog/1_00015
+  rotate: false
+  xy: 1401, 8
+  size: 148, 66
+  orig: 300, 86
+  offset: 119, 12
+  index: -1
+saog/1_00017
+  rotate: false
+  xy: 1845, 201
+  size: 131, 66
+  orig: 300, 86
+  offset: 151, 12
+  index: -1
+saog/1_00019
+  rotate: false
+  xy: 1845, 8
+  size: 104, 66
+  orig: 300, 86
+  offset: 184, 12
+  index: -1
+saog/1_00021
+  rotate: false
+  xy: 568, 2
+  size: 72, 63
+  orig: 300, 86
+  offset: 216, 15
+  index: -1
+saog/1_00023
+  rotate: false
+  xy: 2, 2
+  size: 40, 41
+  orig: 300, 86
+  offset: 248, 37
+  index: -1
+saog/1_00025
+  rotate: false
+  xy: 75, 26
+  size: 15, 17
+  orig: 300, 86
+  offset: 264, 61
+  index: -1

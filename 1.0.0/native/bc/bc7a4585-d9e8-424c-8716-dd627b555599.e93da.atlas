@@ -1,0 +1,55 @@
+
+rotateBtn.png
+size: 471,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_general_spin_ring_09
+  rotate: true
+  xy: 2, 155
+  size: 244, 237
+  orig: 251, 244
+  offset: 5, 2
+  index: -1
+fire_ring
+  rotate: false
+  xy: 241, 2
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+general_spin_ring_06
+  rotate: true
+  xy: 246, 232
+  size: 187, 196
+  orig: 222, 224
+  offset: 20, 18
+  index: -1
+light_ring_b
+  rotate: true
+  xy: 2, 643
+  size: 357, 405
+  orig: 357, 405
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 409, 948
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+spin_solid_a
+  rotate: true
+  xy: 2, 401
+  size: 240, 242
+  orig: 240, 242
+  offset: 0, 0
+  index: -1
+spin_solid_d
+  rotate: true
+  xy: 246, 421
+  size: 220, 221
+  orig: 220, 221
+  offset: 0, 0
+  index: -1

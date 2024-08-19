@@ -1,0 +1,20 @@
+
+diaoluo.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+broken_arrow_a
+  rotate: true
+  xy: 2, 2
+  size: 16, 71
+  orig: 16, 71
+  offset: 0, 0
+  index: -1
+broken_arrow_b
+  rotate: true
+  xy: 75, 2
+  size: 16, 76
+  orig: 16, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+FGjiesuan.jpg
+size: 1931,1423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_win_lighting
+  rotate: false
+  xy: 2, 921
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fx_particle/fs_particle_a_screen_00
+  rotate: false
+  xy: 1692, 1144
+  size: 235, 277
+  orig: 307, 307
+  offset: 32, 2
+  index: -1
+fx_particle/fs_particle_a_screen_01
+  rotate: false
+  xy: 885, 522
+  size: 241, 281
+  orig: 307, 307
+  offset: 29, 1
+  index: -1
+fx_particle/fs_particle_a_screen_02
+  rotate: true
+  xy: 1624, 8
+  size: 245, 281
+  orig: 307, 307
+  offset: 26, 1
+  index: -1
+fx_particle/fs_particle_a_screen_03
+  rotate: false
+  xy: 1373, 233
+  size: 249, 285
+  orig: 307, 307
+  offset: 24, 1
+  index: -1
+fx_particle/fs_particle_a_screen_04
+  rotate: false
+  xy: 1624, 255
+  size: 253, 285
+  orig: 307, 307
+  offset: 23, 1
+  index: -1
+fx_particle/fs_particle_a_screen_05
+  rotate: false
+  xy: 1128, 520
+  size: 257, 289
+  orig: 307, 307
+  offset: 21, 1
+  index: -1
+fx_particle/fs_particle_a_screen_06
+  rotate: false
+  xy: 1110, 227
+  size: 261, 291
+  orig: 307, 307
+  offset: 18, 1
+  index: -1
+fx_particle/fs_particle_a_screen_07
+  rotate: false
+  xy: 1658, 542
+  size: 267, 291
+  orig: 307, 307
+  offset: 15, 1
+  index: -1
+fx_particle/fs_particle_a_screen_08
+  rotate: false
+  xy: 1387, 550
+  size: 269, 293
+  orig: 307, 307
+  offset: 14, 1
+  index: -1
+fx_particle/fs_particle_a_screen_09
+  rotate: false
+  xy: 580, 12
+  size: 273, 295
+  orig: 307, 307
+  offset: 12, 1
+  index: -1
+fx_particle/fs_particle_a_screen_10
+  rotate: false
+  xy: 1385, 845
+  size: 279, 297
+  orig: 307, 307
+  offset: 9, 1
+  index: -1
+fx_particle/fs_particle_a_screen_11
+  rotate: false
+  xy: 295, 2
+  size: 283, 299
+  orig: 307, 307
+  offset: 6, 1
+  index: -1
+fx_particle/fs_particle_a_screen_12
+  rotate: false
+  xy: 1094, 1120
+  size: 287, 301
+  orig: 307, 307
+  offset: 4, 1
+  index: -1
+fx_particle/fs_particle_a_screen_13
+  rotate: false
+  xy: 2, 2
+  size: 291, 303
+  orig: 307, 307
+  offset: 2, 1
+  index: -1
+fx_particle/fs_particle_a_screen_14
+  rotate: false
+  xy: 2, 307
+  size: 295, 305
+  orig: 307, 307
+  offset: 1, 1
+  index: -1
+fx_particle/fs_particle_a_screen_15
+  rotate: false
+  xy: 2, 614
+  size: 297, 305
+  orig: 307, 307
+  offset: 1, 1
+  index: -1
+fx_particle/fs_particle_a_screen_16
+  rotate: false
+  xy: 504, 1114
+  size: 295, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_17
+  rotate: false
+  xy: 801, 1114
+  size: 291, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_18
+  rotate: true
+  xy: 1383, 1144
+  size: 277, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_19
+  rotate: false
+  xy: 301, 612
+  size: 273, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_20
+  rotate: false
+  xy: 849, 805
+  size: 269, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_21
+  rotate: false
+  xy: 576, 805
+  size: 271, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_22
+  rotate: false
+  xy: 299, 303
+  size: 273, 307
+  orig: 307, 307
+  offset: 1, 0
+  index: -1
+fx_particle/fs_particle_a_screen_23
+  rotate: false
+  xy: 1120, 811
+  size: 263, 307
+  orig: 307, 307
+  offset: 11, 0
+  index: -1
+fx_particle/fs_particle_a_screen_24
+  rotate: false
+  xy: 1666, 835
+  size: 263, 307
+  orig: 307, 307
+  offset: 12, 0
+  index: -1
+fx_particle/fs_particle_a_screen_25
+  rotate: true
+  xy: 576, 558
+  size: 245, 307
+  orig: 307, 307
+  offset: 31, 0
+  index: -1
+fx_particle/fs_particle_a_screen_26
+  rotate: true
+  xy: 574, 309
+  size: 247, 307
+  orig: 307, 307
+  offset: 29, 0
+  index: -1
+fx_particle/fs_particle_a_screen_27
+  rotate: false
+  xy: 883, 213
+  size: 225, 307
+  orig: 307, 307
+  offset: 46, 0
+  index: -1
+fx_particle/fs_particle_a_screen_28
+  rotate: true
+  xy: 855, 4
+  size: 207, 299
+  orig: 307, 307
+  offset: 45, 8
+  index: -1

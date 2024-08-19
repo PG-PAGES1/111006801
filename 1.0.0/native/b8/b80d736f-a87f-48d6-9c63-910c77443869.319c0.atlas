@@ -1,0 +1,160 @@
+
+fastline.jpg
+size: 1796,847
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fast_fire
+  rotate: false
+  xy: 252, 243
+  size: 127, 351
+  orig: 127, 351
+  offset: 0, 0
+  index: -1
+images/fast_frame_a
+  rotate: true
+  xy: 2, 596
+  size: 249, 1638
+  orig: 249, 1638
+  offset: 0, 0
+  index: -1
+images/fast_frame_b
+  rotate: false
+  xy: 1642, 314
+  size: 152, 531
+  orig: 152, 531
+  offset: 0, 0
+  index: -1
+images/fast_frame_c
+  rotate: false
+  xy: 2, 2
+  size: 248, 592
+  orig: 248, 592
+  offset: 0, 0
+  index: -1
+images/fast_particle_line
+  rotate: false
+  xy: 1591, 412
+  size: 42, 182
+  orig: 42, 182
+  offset: 0, 0
+  index: -1
+images/fastline_change
+  rotate: false
+  xy: 1561, 313
+  size: 28, 281
+  orig: 28, 281
+  offset: 0, 0
+  index: -1
+images/fire/fire_a_01
+  rotate: false
+  xy: 381, 406
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_02
+  rotate: false
+  xy: 617, 406
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_03
+  rotate: false
+  xy: 853, 406
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_04
+  rotate: false
+  xy: 1089, 406
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_05
+  rotate: false
+  xy: 1325, 406
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_06
+  rotate: false
+  xy: 381, 216
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_07
+  rotate: false
+  xy: 617, 216
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_08
+  rotate: false
+  xy: 853, 216
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_09
+  rotate: false
+  xy: 1089, 216
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_10
+  rotate: false
+  xy: 1325, 216
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_11
+  rotate: false
+  xy: 252, 26
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_12
+  rotate: false
+  xy: 488, 26
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_13
+  rotate: false
+  xy: 724, 26
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_14
+  rotate: false
+  xy: 960, 26
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_15
+  rotate: false
+  xy: 1196, 26
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1
+images/fire/fire_a_16
+  rotate: false
+  xy: 1432, 26
+  size: 234, 188
+  orig: 234, 208
+  offset: 0, 6
+  index: -1

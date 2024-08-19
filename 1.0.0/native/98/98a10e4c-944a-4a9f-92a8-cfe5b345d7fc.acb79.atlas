@@ -1,0 +1,27 @@
+
+fx_xinxilan.png
+size: 465,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_a
+  rotate: false
+  xy: 2, 2
+  size: 322, 67
+  orig: 322, 67
+  offset: 0, 0
+  index: -1
+glow_b
+  rotate: true
+  xy: 382, 82
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+glow_c
+  rotate: false
+  xy: 2, 71
+  size: 378, 148
+  orig: 378, 148
+  offset: 0, 0
+  index: -1

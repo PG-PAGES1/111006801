@@ -1,0 +1,186 @@
+
+celebrate_b_character.png
+size: 1278,1106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+celebrate_b_character_05
+  rotate: true
+  xy: 437, 875
+  size: 229, 432
+  orig: 540, 494
+  offset: 84, 27
+  index: -1
+celebrate_b_character_06
+  rotate: true
+  xy: 2, 646
+  size: 229, 432
+  orig: 540, 494
+  offset: 81, 29
+  index: -1
+celebrate_b_character_07
+  rotate: true
+  xy: 2, 414
+  size: 230, 432
+  orig: 540, 494
+  offset: 80, 29
+  index: -1
+celebrate_b_character_08
+  rotate: true
+  xy: 436, 644
+  size: 229, 431
+  orig: 540, 494
+  offset: 81, 29
+  index: -1
+celebrate_b_character_09
+  rotate: true
+  xy: 2, 877
+  size: 227, 433
+  orig: 540, 494
+  offset: 82, 30
+  index: -1
+celebrate_b_character_10
+  rotate: true
+  xy: 796, 2
+  size: 235, 448
+  orig: 540, 494
+  offset: 76, 32
+  index: -1
+celebrate_b_character_13
+  rotate: true
+  xy: 832, 239
+  size: 260, 444
+  orig: 540, 494
+  offset: 56, 22
+  index: -1
+celebrate_b_character_14
+  rotate: true
+  xy: 871, 807
+  size: 297, 404
+  orig: 540, 494
+  offset: 49, 18
+  index: -1
+celebrate_b_character_18
+  rotate: true
+  xy: 869, 501
+  size: 304, 394
+  orig: 540, 494
+  offset: 48, 15
+  index: -1
+celebrate_b_character_19
+  rotate: true
+  xy: 436, 338
+  size: 304, 394
+  orig: 540, 494
+  offset: 48, 15
+  index: -1
+celebrate_b_character_20
+  rotate: true
+  xy: 2, 108
+  size: 304, 394
+  orig: 540, 494
+  offset: 48, 15
+  index: -1
+celebrate_b_character_21
+  rotate: true
+  xy: 398, 32
+  size: 304, 396
+  orig: 540, 494
+  offset: 48, 15
+  index: -1
+
+celebrate_b_character2.png
+size: 1239,1120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+celebrate_b_character_02
+  rotate: false
+  xy: 776, 2
+  size: 428, 395
+  orig: 540, 494
+  offset: 51, 15
+  index: -1
+celebrate_b_character_03
+  rotate: true
+  xy: 2, 184
+  size: 379, 390
+  orig: 540, 494
+  offset: 44, 16
+  index: -1
+celebrate_b_character_04
+  rotate: true
+  xy: 796, 399
+  size: 324, 415
+  orig: 540, 494
+  offset: 43, 22
+  index: -1
+celebrate_b_character_11
+  rotate: true
+  xy: 2, 875
+  size: 243, 457
+  orig: 540, 494
+  offset: 69, 32
+  index: -1
+celebrate_b_character_12
+  rotate: true
+  xy: 461, 870
+  size: 248, 460
+  orig: 540, 494
+  offset: 63, 27
+  index: -1
+celebrate_b_character_15
+  rotate: false
+  xy: 923, 725
+  size: 314, 393
+  orig: 540, 494
+  offset: 44, 17
+  index: -1
+celebrate_b_character_16
+  rotate: true
+  xy: 399, 555
+  size: 313, 395
+  orig: 540, 494
+  offset: 43, 15
+  index: -1
+celebrate_b_character_17
+  rotate: true
+  xy: 2, 565
+  size: 308, 395
+  orig: 540, 494
+  offset: 45, 15
+  index: -1
+celebrate_b_character_22
+  rotate: false
+  xy: 394, 149
+  size: 380, 404
+  orig: 540, 494
+  offset: 50, 15
+  index: -1
+
+celebrate_b_character3.png
+size: 1249,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+celebrate_b_character_01
+  rotate: false
+  xy: 2, 2
+  size: 412, 432
+  orig: 540, 494
+  offset: 75, 15
+  index: -1
+celebrate_b_character_23
+  rotate: false
+  xy: 828, 14
+  size: 419, 420
+  orig: 540, 494
+  offset: 67, 15
+  index: -1
+celebrate_b_character_24
+  rotate: false
+  xy: 416, 2
+  size: 410, 432
+  orig: 540, 494
+  offset: 78, 15
+  index: -1
